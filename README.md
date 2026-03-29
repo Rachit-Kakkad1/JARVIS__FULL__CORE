@@ -115,3 +115,4 @@ Follow the project for updates and new releases.
 
 ## License Information
 This project is licensed under the MIT License.
+See the `LICENSE` file for more details.
