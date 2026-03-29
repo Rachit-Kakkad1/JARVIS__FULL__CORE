@@ -62,3 +62,4 @@ JARVIS acts as the central hub for all smart devices in the user's environment.
 - **Voice-to-Hardware**: Directly control lights, thermostat, and locks via voice command.
 
 ## Future Scope & Roadmap
+We are committed to the long-term evolution of the JARVIS OS.
