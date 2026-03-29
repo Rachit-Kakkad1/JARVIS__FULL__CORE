@@ -101,3 +101,4 @@ The development of JARVIS has been a collaborative effort.
    `git clone https://github.com/Rachit-Kakkad1/JARVIS__FULL__CORE.git`
 2. **Setup Python Environment**:
    `python -m venv venv`
+   `source venv/bin/activate` # On Windows: .\venv\Scripts\activate
