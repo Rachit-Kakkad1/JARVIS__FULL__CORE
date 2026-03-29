@@ -133,3 +133,4 @@ Major version shifts happen every quarter with significant new features.
 ## Licensing Details
 This project is licensed under the MIT License.
 Users are free to modify and distribute, provided proper attribution is given.
+Copyright (c) 2026 Rachit Kakkad.
