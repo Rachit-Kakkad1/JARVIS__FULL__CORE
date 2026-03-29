@@ -82,3 +82,4 @@ The JARVIS core is designed to be deployed across various environments.
 - **Local Server**: Running on a dedicated workstation for maximum privacy.
 - **Edge Deployment**: Lightweight versions for mobile devices and smart mirrors.
 - **Cloud Relay**: Optional secure relay for remote access when away from home.
+
