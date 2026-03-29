@@ -25,3 +25,4 @@ The JARVIS core is split into several key components:
 4. `voice/`: Modules for speech synthesis and recognition.
 5. `security/`: Biometric gates and encryption tools.
 6. `controller/`: Inter-module communication and command execution.
+7. `core/`: Basic system utilities and configuration.
