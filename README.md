@@ -26,3 +26,4 @@ The JARVIS core is split into several key components:
 5. `security/`: Biometric gates and encryption tools.
 6. `controller/`: Inter-module communication and command execution.
 7. `core/`: Basic system utilities and configuration.
+8. `data/`: Local storage and persistence layer.
