@@ -74,3 +74,4 @@ Supports multiple languages and personalized voice feedback.
 - Multi-device synchronization for ubiquitous access.
 
 ## Technical Specifications
+- Built using Python 3.10+ and Node.js.
