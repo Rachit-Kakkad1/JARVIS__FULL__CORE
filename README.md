@@ -108,3 +108,4 @@ Built with love for high-fidelity interactive software.
 Dedicated to pushing the boundaries of the AI experience.
 
 ## Contact Information
+For inquiries, please reach out to the development team.
