@@ -119,3 +119,4 @@ To get the most out of JARVIS, follow these guidelines:
 - **Security Hygiene**: Rotate your master access keys every 30 days.
 
 ## Technical Specifications Summary
+- **Language**: Python, JavaScript, Shell.
