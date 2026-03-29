@@ -54,3 +54,4 @@ Integrates with several voice engines for minimal latency.
 Supports multiple languages and personalized voice feedback.
 
 ## Installation Guide
+1. Clone the repository.
