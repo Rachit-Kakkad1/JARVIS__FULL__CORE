@@ -49,3 +49,4 @@ It doesn't just match keywords; it understands the semantic intent of the user.
 The Heads-Up Display provides a cinematic, data-rich experience for the user.
 - **Global Viewport**: A borderless window that overlays system information seamlessly.
 - **Dynamic Bento Grids**: Modular displays that resize based on active tasks.
+- **Glassmorphic UI**: High-end visual aesthetics with frosted glass and glowing accents.
