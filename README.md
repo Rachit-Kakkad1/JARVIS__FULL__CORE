@@ -96,3 +96,4 @@ The development of JARVIS has been a collaborative effort.
 - **UI Designer**: Inspired by the Marvel Cinematic Universe and FUI designs.
 - **Community**: Thanks to the open-source community for libraries like TensorFlow and React.
 
+## Detailed Installation Steps
