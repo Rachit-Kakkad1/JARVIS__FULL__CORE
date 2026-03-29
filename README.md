@@ -95,3 +95,4 @@ The development of JARVIS has been a collaborative effort.
 - **Lead Architect**: Rachit Kakkad.
 - **UI Designer**: Inspired by the Marvel Cinematic Universe and FUI designs.
 - **Community**: Thanks to the open-source community for libraries like TensorFlow and React.
+
