@@ -128,3 +128,4 @@ To get the most out of JARVIS, follow these guidelines:
 ## Maintenance and Updates
 The core team releases updates on a bi-weekly cycle.
 Ensure you pull the latest changes from the `main` branch regularly.
+Major version shifts happen every quarter with significant new features.
