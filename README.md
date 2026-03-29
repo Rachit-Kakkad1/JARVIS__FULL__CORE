@@ -111,3 +111,4 @@ The development of JARVIS has been a collaborative effort.
 6. **Initiate Core**:
    `python main.py`
 
+## User Experience Best Practices
