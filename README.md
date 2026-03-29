@@ -14,3 +14,4 @@ The system is built to be a high-performance personal assistant with biometric s
 - Futuristic React-based Heads-Up Display (HUD) interface.
 - Dynamic hardware interaction and system control.
 - Seamless API integrations for search, weather, and scheduling.
+- Deep Learning modules for personalized user interaction.
