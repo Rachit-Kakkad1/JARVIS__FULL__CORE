@@ -56,3 +56,4 @@ The Heads-Up Display provides a cinematic, data-rich experience for the user.
 ## IoT Integration & Smart Home Control
 JARVIS acts as the central hub for all smart devices in the user's environment.
 - **MQTT Broker**: Handles high-speed communication between smart switches and sensors.
+- **Device Discovery**: Automatically detects new IoT hardware on the local network.
