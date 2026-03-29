@@ -23,3 +23,4 @@ This repository hosts the full core logic, cognitive frameworks, and high-fideli
 - **Frontend HUD**: React.js with advanced hardware-accelerated CSS animations.
 - **Voice Module**: Integration with high-fidelity NVIDIA Riva or similar TTS/STT.
 - **Security Engine**: DeepFace integration with ArcFace loss functions for biometric lock.
+- **Database Layer**: Hybrid SQL/NoSQL structure for structured data and fast retrieval.
