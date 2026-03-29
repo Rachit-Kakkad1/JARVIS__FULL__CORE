@@ -72,3 +72,4 @@ We are committed to the long-term evolution of the JARVIS OS.
 
 ## System Performance Analytics
 JARVIS is optimized for the highest performance possible on consumer hardware.
+- **Parallel Computing**: Utilizes all available CPU cores for concurrent processing.
