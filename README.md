@@ -110,3 +110,4 @@ The development of JARVIS has been a collaborative effort.
    `cd ui && npm install && npm start`
 6. **Initiate Core**:
    `python main.py`
+
