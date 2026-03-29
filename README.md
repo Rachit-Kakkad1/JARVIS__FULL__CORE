@@ -82,3 +82,4 @@ Supports multiple languages and personalized voice feedback.
 - Modular design following industry best practices.
 
 ## System Performance
+- High-performance threading for concurrent task execution.
