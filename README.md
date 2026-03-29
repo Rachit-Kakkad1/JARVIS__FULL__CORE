@@ -92,3 +92,4 @@ We welcome developers who share our vision for the future of AI interaction.
 
 ## Credits & Acknowledgments
 The development of JARVIS has been a collaborative effort.
+- **Lead Architect**: Rachit Kakkad.
