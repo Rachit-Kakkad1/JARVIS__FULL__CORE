@@ -83,3 +83,4 @@ Supports multiple languages and personalized voice feedback.
 
 ## System Performance
 - High-performance threading for concurrent task execution.
+- Low memory footprint for the core logic layer.
