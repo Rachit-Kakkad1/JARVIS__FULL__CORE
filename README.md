@@ -67,3 +67,4 @@ We are committed to the long-term evolution of the JARVIS OS.
 - **Neural Link Integration**: Early-stage research for direct brain-computer interaction.
 - **Autonomous Drone Fleet**: Controlling surveillance drones for home security tasks.
 - **Haptic Feedback**: Integration with wearable devices for physical notifications.
+- **Extended Memory**: A global vector database for life-long user history retention.
