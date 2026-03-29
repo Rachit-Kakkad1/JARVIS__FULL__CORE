@@ -87,3 +87,4 @@ The JARVIS core is designed to be deployed across various environments.
 We welcome developers who share our vision for the future of AI interaction.
 - **Code Consistency**: Follow the PEP 8 guidelines for Python and Airbnb for JS.
 - **Atomic Commits**: Ensure each PR is broken down into logical, testable units.
+- **Documentation**: All new features must be accompanied by detailed README updates.
