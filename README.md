@@ -95,3 +95,4 @@ Supports multiple languages and personalized voice feedback.
 - Multi-factor authentication support for high-risk actions.
 - Periodic updates to security protocols and dependencies.
 
+## Community and Contributions
