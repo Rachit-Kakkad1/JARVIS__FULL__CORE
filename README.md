@@ -37,3 +37,4 @@ Security is at the heart of JARVIS. Unauthorized access is virtually impossible.
 6. **Intrusion Detection**: Real-time monitoring for SQL injections and unauthorized API calls.
 7. **Emergency Lockdown**: A voice-activated command to freeze all system activity.
 
+## Feature Breakdown: The Brain Module
