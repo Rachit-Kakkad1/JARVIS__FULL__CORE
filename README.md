@@ -38,3 +38,4 @@ The cognitive system is designed for 60FPS responsive interactions.
 ## Biometric Security
 JARVIS uses a multi-pass biometric verification engine.
 This includes facial recognition using DeepFace and ArcFace.
+Unauthorized access is strictly prevented by a high-security gait.
