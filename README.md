@@ -66,3 +66,4 @@ Supports multiple languages and personalized voice feedback.
    - `python main.py`
 
 ## Roadmap for Future Iterations
+- Integration with external IoT devices for smart-home control.
