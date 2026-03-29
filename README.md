@@ -71,3 +71,4 @@ We are committed to the long-term evolution of the JARVIS OS.
 - **Quantum Logic**: Exploring quantum-inspired algorithms for decision-making.
 
 ## System Performance Analytics
+JARVIS is optimized for the highest performance possible on consumer hardware.
