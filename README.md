@@ -122,3 +122,4 @@ To get the most out of JARVIS, follow these guidelines:
 - **Language**: Python, JavaScript, Shell.
 - **Database**: PostgreSQL (Relational), Redis (Caching), MongoDB (Logs).
 - **Communication**: MQTT, WebSockets, REST.
+- **AI Models**: Custom Transformers, OpenCV, DeepFace.
