@@ -85,3 +85,4 @@ Supports multiple languages and personalized voice feedback.
 - High-performance threading for concurrent task execution.
 - Low memory footprint for the core logic layer.
 - Optimized UI rendering for 60+ FPS performance.
+- Direct hardware access for system-level controls.
