@@ -1,3 +1,4 @@
 ﻿
 # JARVIS - SUPREME COGNITIVE OPERATING SYSTEM
 
+## Project Visionary Goals
