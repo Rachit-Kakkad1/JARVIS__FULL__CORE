@@ -36,3 +36,4 @@ This ensures high modularity and easy expansion of future capabilities.
 The cognitive system is designed for 60FPS responsive interactions.
 
 ## Biometric Security
+JARVIS uses a multi-pass biometric verification engine.
