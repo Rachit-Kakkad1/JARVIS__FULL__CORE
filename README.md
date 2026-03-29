@@ -47,3 +47,4 @@ Features glassmorphism, glowing accents, and smooth transitions.
 The interface is designed to be immersive and cinematic.
 Optimized for high-refresh-rate displays and sleek typography.
 
+## Voice Integration
