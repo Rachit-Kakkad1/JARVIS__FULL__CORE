@@ -38,3 +38,4 @@ Security is at the heart of JARVIS. Unauthorized access is virtually impossible.
 7. **Emergency Lockdown**: A voice-activated command to freeze all system activity.
 
 ## Feature Breakdown: The Brain Module
+The "Brain" is a neural-symbolic hybrid system that processes complex queries.
