@@ -81,3 +81,4 @@ Supports multiple languages and personalized voice feedback.
 - Memory-efficient processing for real-time responsiveness.
 - Modular design following industry best practices.
 
+## System Performance
