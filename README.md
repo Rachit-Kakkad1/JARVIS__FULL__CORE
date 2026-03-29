@@ -67,3 +67,4 @@ Supports multiple languages and personalized voice feedback.
 
 ## Roadmap for Future Iterations
 - Integration with external IoT devices for smart-home control.
+- Implementation of full holographic projections for the HUD.
