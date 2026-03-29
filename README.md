@@ -102,3 +102,4 @@ The development of JARVIS has been a collaborative effort.
 2. **Setup Python Environment**:
    `python -m venv venv`
    `source venv/bin/activate` # On Windows: .\venv\Scripts\activate
+3. **Install Dependencies**:
