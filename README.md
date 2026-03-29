@@ -24,3 +24,4 @@ The JARVIS core is split into several key components:
 3. `ui/`: The React-based frontend for the HUD.
 4. `voice/`: Modules for speech synthesis and recognition.
 5. `security/`: Biometric gates and encryption tools.
+6. `controller/`: Inter-module communication and command execution.
