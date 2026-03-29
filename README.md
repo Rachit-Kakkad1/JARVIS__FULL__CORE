@@ -20,3 +20,4 @@ The system is built to be a high-performance personal assistant with biometric s
 ## System Architecture
 The JARVIS core is split into several key components:
 1. `main.py`: The entry point for the entire application.
+2. `brain/`: The cognitive processing unit of JARVIS.
