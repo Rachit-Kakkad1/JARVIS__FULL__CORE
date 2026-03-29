@@ -105,3 +105,4 @@ The development of JARVIS has been a collaborative effort.
 3. **Install Dependencies**:
    `pip install -r requirements.txt`
 4. **Configuration**:
+   Copy `.env.example` to `.env` and fill in your API credentials.
