@@ -42,3 +42,4 @@ The "Brain" is a neural-symbolic hybrid system that processes complex queries.
 It doesn't just match keywords; it understands the semantic intent of the user.
 - **Semantic Routing**: Directs queries to specific sub-modules (Weather, News, Control).
 - **Intent Extraction**: Distills the core objective from verbose natural language.
+- **Logic Verification**: Cross-references commands with safety and logic constraints.
