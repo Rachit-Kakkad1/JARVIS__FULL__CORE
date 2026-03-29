@@ -131,3 +131,4 @@ Ensure you pull the latest changes from the `main` branch regularly.
 Major version shifts happen every quarter with significant new features.
 
 ## Licensing Details
+This project is licensed under the MIT License.
