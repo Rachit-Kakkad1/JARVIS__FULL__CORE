@@ -19,3 +19,4 @@ This repository hosts the full core logic, cognitive frameworks, and high-fideli
 - Autonomous error correction and self-healing system protocols.
 
 ## Tech Stack & Architecture
+- **Backend Core**: Python 3.11+ for high-performance cognitive processing.
