@@ -13,3 +13,4 @@ The system is built to be a high-performance personal assistant with biometric s
 - Real-time cognitive engine for autonomous task execution.
 - Futuristic React-based Heads-Up Display (HUD) interface.
 - Dynamic hardware interaction and system control.
+- Seamless API integrations for search, weather, and scheduling.
