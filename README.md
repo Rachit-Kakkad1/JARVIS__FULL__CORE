@@ -40,3 +40,4 @@ Security is at the heart of JARVIS. Unauthorized access is virtually impossible.
 ## Feature Breakdown: The Brain Module
 The "Brain" is a neural-symbolic hybrid system that processes complex queries.
 It doesn't just match keywords; it understands the semantic intent of the user.
+- **Semantic Routing**: Directs queries to specific sub-modules (Weather, News, Control).
