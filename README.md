@@ -91,3 +91,4 @@ We welcome developers who share our vision for the future of AI interaction.
 - **Security First**: New code must pass the internal security audit before merging.
 
 ## Credits & Acknowledgments
+The development of JARVIS has been a collaborative effort.
