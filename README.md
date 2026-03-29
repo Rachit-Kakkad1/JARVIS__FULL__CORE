@@ -90,3 +90,4 @@ Supports multiple languages and personalized voice feedback.
 
 ## Security Best Practices
 - Encrypted data storage for all personal records.
+- Regular security audits for biometric verification.
