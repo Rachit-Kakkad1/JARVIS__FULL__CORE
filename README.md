@@ -123,3 +123,4 @@ To get the most out of JARVIS, follow these guidelines:
 - **Database**: PostgreSQL (Relational), Redis (Caching), MongoDB (Logs).
 - **Communication**: MQTT, WebSockets, REST.
 - **AI Models**: Custom Transformers, OpenCV, DeepFace.
+- **OS Support**: Windows 10/11, Ubuntu 22.04 LTS, macOS Sequoia.
