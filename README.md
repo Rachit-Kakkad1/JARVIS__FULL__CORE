@@ -104,3 +104,4 @@ Follow the styling and architecture guidelines in `CONTRIBUTING.md`.
 ## Credits and Inspiration
 Inspired by the Iron Man cinema franchise.
 Special thanks to all the developers who contributed.
+Built with love for high-fidelity interactive software.
