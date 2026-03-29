@@ -77,3 +77,4 @@ JARVIS is optimized for the highest performance possible on consumer hardware.
 - **Memory Pooling**: Efficient allocation of buffers to prevent memory leaks.
 - **Low Latency**: Guaranteed sub-100ms response times for most cognitive queries.
 
+## Global Distribution & Availability
