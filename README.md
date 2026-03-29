@@ -80,3 +80,4 @@ Supports multiple languages and personalized voice feedback.
 - Low-latency WebSocket communication between backend and UI.
 - Memory-efficient processing for real-time responsiveness.
 - Modular design following industry best practices.
+
