@@ -74,3 +74,4 @@ We are committed to the long-term evolution of the JARVIS OS.
 JARVIS is optimized for the highest performance possible on consumer hardware.
 - **Parallel Computing**: Utilizes all available CPU cores for concurrent processing.
 - **GPU Acceleration**: Offloads 3D rendering and neural inference to the GPU.
+- **Memory Pooling**: Efficient allocation of buffers to prevent memory leaks.
