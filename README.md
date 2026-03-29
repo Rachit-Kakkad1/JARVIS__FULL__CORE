@@ -21,3 +21,4 @@ This repository hosts the full core logic, cognitive frameworks, and high-fideli
 ## Tech Stack & Architecture
 - **Backend Core**: Python 3.11+ for high-performance cognitive processing.
 - **Frontend HUD**: React.js with advanced hardware-accelerated CSS animations.
+- **Voice Module**: Integration with high-fidelity NVIDIA Riva or similar TTS/STT.
