@@ -23,3 +23,4 @@ The JARVIS core is split into several key components:
 2. `brain/`: The cognitive processing unit of JARVIS.
 3. `ui/`: The React-based frontend for the HUD.
 4. `voice/`: Modules for speech synthesis and recognition.
+5. `security/`: Biometric gates and encryption tools.
