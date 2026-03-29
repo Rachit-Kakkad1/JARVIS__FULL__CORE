@@ -89,3 +89,4 @@ Supports multiple languages and personalized voice feedback.
 - Asynchronous API handling for non-blocking operations.
 
 ## Security Best Practices
+- Encrypted data storage for all personal records.
