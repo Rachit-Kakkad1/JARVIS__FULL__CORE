@@ -34,3 +34,4 @@ The brain module uses a combination of natural language understanding and logic 
 It processes user intent and routes it through the appropriate controller.
 This ensures high modularity and easy expansion of future capabilities.
 The cognitive system is designed for 60FPS responsive interactions.
+
