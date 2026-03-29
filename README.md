@@ -58,3 +58,4 @@ Supports multiple languages and personalized voice feedback.
    - `git clone https://github.com/Rachit-Kakkad1/JARVIS__FULL__CORE.git`
 2. Navigate to the project directory.
    - `cd jarvis`
+3. Install dependencies from requirements.txt.
