@@ -111,3 +111,4 @@ Dedicated to pushing the boundaries of the AI experience.
 For inquiries, please reach out to the development team.
 Email: kakkadrachit1@gmail.com
 GitHub: Rachit-Kakkad1
+Follow the project for updates and new releases.
