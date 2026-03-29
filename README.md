@@ -24,3 +24,4 @@ This repository hosts the full core logic, cognitive frameworks, and high-fideli
 - **Voice Module**: Integration with high-fidelity NVIDIA Riva or similar TTS/STT.
 - **Security Engine**: DeepFace integration with ArcFace loss functions for biometric lock.
 - **Database Layer**: Hybrid SQL/NoSQL structure for structured data and fast retrieval.
+- **Communication**: Low-latency WebSockets for real-time frontend-backend sync.
