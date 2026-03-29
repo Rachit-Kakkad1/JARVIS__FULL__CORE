@@ -30,3 +30,4 @@ The JARVIS core is split into several key components:
 9. `assets/`: UI assets, images, and sound effects.
 
 ## Cognitive Logic
+The brain module uses a combination of natural language understanding and logic trees.
