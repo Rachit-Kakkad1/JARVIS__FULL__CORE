@@ -55,3 +55,4 @@ Supports multiple languages and personalized voice feedback.
 
 ## Installation Guide
 1. Clone the repository.
+   - `git clone https://github.com/Rachit-Kakkad1/JARVIS__FULL__CORE.git`
