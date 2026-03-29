@@ -89,3 +89,4 @@ We welcome developers who share our vision for the future of AI interaction.
 - **Atomic Commits**: Ensure each PR is broken down into logical, testable units.
 - **Documentation**: All new features must be accompanied by detailed README updates.
 - **Security First**: New code must pass the internal security audit before merging.
+
