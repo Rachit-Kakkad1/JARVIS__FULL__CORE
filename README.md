@@ -44,3 +44,4 @@ The biometric security provides an industry-leading level of protection.
 ## Frontend Experience
 The UI is built with React and custom CSS for a premium feel.
 Features glassmorphism, glowing accents, and smooth transitions.
+The interface is designed to be immersive and cinematic.
