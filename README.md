@@ -120,3 +120,4 @@ To get the most out of JARVIS, follow these guidelines:
 
 ## Technical Specifications Summary
 - **Language**: Python, JavaScript, Shell.
+- **Database**: PostgreSQL (Relational), Redis (Caching), MongoDB (Logs).
