@@ -12,3 +12,4 @@ This repository hosts the full core logic, cognitive frameworks, and high-fideli
 - High-fidelity Natural Language Processing using Transformer-based models.
 - Real-time environment awareness and situational context processing.
 - Multi-threaded task scheduling for complex operational workflows.
+- Dynamic learning algorithms that adapt to user habits and preferences.
