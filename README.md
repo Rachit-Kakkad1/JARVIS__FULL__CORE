@@ -76,3 +76,4 @@ JARVIS is optimized for the highest performance possible on consumer hardware.
 - **GPU Acceleration**: Offloads 3D rendering and neural inference to the GPU.
 - **Memory Pooling**: Efficient allocation of buffers to prevent memory leaks.
 - **Low Latency**: Guaranteed sub-100ms response times for most cognitive queries.
+
