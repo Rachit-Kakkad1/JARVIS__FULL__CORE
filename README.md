@@ -65,3 +65,4 @@ JARVIS acts as the central hub for all smart devices in the user's environment.
 We are committed to the long-term evolution of the JARVIS OS.
 - **Holographic Projection**: Development of a pseudo-holographic display using light fields.
 - **Neural Link Integration**: Early-stage research for direct brain-computer interaction.
+- **Autonomous Drone Fleet**: Controlling surveillance drones for home security tasks.
