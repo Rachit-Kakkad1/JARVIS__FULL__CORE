@@ -121,3 +121,4 @@ All rights reserved.
 
 ## Closing Remarks
 JARVIS is more than just an assistant.
+It is a vision of the future brought to life.
