@@ -29,3 +29,4 @@ The JARVIS core is split into several key components:
 8. `data/`: Local storage and persistence layer.
 9. `assets/`: UI assets, images, and sound effects.
 
+## Cognitive Logic
