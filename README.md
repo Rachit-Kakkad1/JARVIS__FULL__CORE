@@ -137,3 +137,4 @@ Copyright (c) 2026 Rachit Kakkad.
 Full license text available in the LICENSE file.
 
 ## Final Note from the Author
+Building JARVIS is a journey into the future of human-machine symbiosis.
