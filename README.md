@@ -99,3 +99,4 @@ Supports multiple languages and personalized voice feedback.
 We welcome contributions from the community.
 If you have ideas for new features, open an issue.
 Pull requests are reviewed by the core team.
+Follow the styling and architecture guidelines in `CONTRIBUTING.md`.
