@@ -33,3 +33,4 @@ Security is at the heart of JARVIS. Unauthorized access is virtually impossible.
 2. **Gait Recognition**: Identifies the user based on movement patterns (Experimental).
 3. **Voice Print Analysis**: Verifies the unique acoustic signature of the operator.
 4. **End-to-End Encryption**: All personal data and conversation logs are AES-256 encrypted.
+5. **Cold-Storage Vault**: Sensitive credentials are stored in an air-gapped simulation layer.
