@@ -97,3 +97,4 @@ The development of JARVIS has been a collaborative effort.
 - **Community**: Thanks to the open-source community for libraries like TensorFlow and React.
 
 ## Detailed Installation Steps
+1. **Clone Repository**:
