@@ -54,3 +54,4 @@ The Heads-Up Display provides a cinematic, data-rich experience for the user.
 - **Interactive Widgets**: Real-time graphs for CPU, RAM, and IoT device status.
 
 ## IoT Integration & Smart Home Control
+JARVIS acts as the central hub for all smart devices in the user's environment.
