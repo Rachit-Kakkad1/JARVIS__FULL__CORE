@@ -42,3 +42,4 @@ Unauthorized access is strictly prevented by a high-security gait.
 The biometric security provides an industry-leading level of protection.
 
 ## Frontend Experience
+The UI is built with React and custom CSS for a premium feel.
