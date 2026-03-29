@@ -11,3 +11,4 @@ The system is built to be a high-performance personal assistant with biometric s
 - Advanced Speech and Natural Language Processing.
 - Multi-layered biometric face authentication.
 - Real-time cognitive engine for autonomous task execution.
+- Futuristic React-based Heads-Up Display (HUD) interface.
