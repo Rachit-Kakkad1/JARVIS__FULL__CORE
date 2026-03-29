@@ -27,3 +27,4 @@ This repository hosts the full core logic, cognitive frameworks, and high-fideli
 - **Communication**: Low-latency WebSockets for real-time frontend-backend sync.
 - **IoT Layer**: MQTT protocol for high-efficiency device control and telemetry.
 
+## Detailed Security Infrastructure
