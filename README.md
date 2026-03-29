@@ -77,3 +77,4 @@ Supports multiple languages and personalized voice feedback.
 - Built using Python 3.10+ and Node.js.
 - Uses advanced CSS3 for cinematic HUD designs.
 - Hardware acceleration for 3D transforms.
+- Low-latency WebSocket communication between backend and UI.
