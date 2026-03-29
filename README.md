@@ -98,3 +98,4 @@ The development of JARVIS has been a collaborative effort.
 
 ## Detailed Installation Steps
 1. **Clone Repository**:
+   `git clone https://github.com/Rachit-Kakkad1/JARVIS__FULL__CORE.git`
