@@ -28,3 +28,4 @@ The JARVIS core is split into several key components:
 7. `core/`: Basic system utilities and configuration.
 8. `data/`: Local storage and persistence layer.
 9. `assets/`: UI assets, images, and sound effects.
+
