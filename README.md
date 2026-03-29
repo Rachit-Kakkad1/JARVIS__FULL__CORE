@@ -116,3 +116,4 @@ To get the most out of JARVIS, follow these guidelines:
 - **Clear Enunciation**: High-quality microphones yield better speech recognition results.
 - **Consistent Feedback**: Training the brain module requires consistent user input.
 - **System Maintenance**: Periodic cache cleaning ensures optimal speed.
+- **Security Hygiene**: Rotate your master access keys every 30 days.
