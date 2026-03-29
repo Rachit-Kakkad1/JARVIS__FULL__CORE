@@ -96,3 +96,4 @@ Supports multiple languages and personalized voice feedback.
 - Periodic updates to security protocols and dependencies.
 
 ## Community and Contributions
+We welcome contributions from the community.
