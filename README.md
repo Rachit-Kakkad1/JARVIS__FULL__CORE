@@ -78,3 +78,4 @@ JARVIS is optimized for the highest performance possible on consumer hardware.
 - **Low Latency**: Guaranteed sub-100ms response times for most cognitive queries.
 
 ## Global Distribution & Availability
+The JARVIS core is designed to be deployed across various environments.
