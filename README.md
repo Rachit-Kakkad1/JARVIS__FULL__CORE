@@ -10,3 +10,4 @@ This repository hosts the full core logic, cognitive frameworks, and high-fideli
 
 ## Advanced Functional Capabilities
 - High-fidelity Natural Language Processing using Transformer-based models.
+- Real-time environment awareness and situational context processing.
