@@ -40,3 +40,4 @@ JARVIS uses a multi-pass biometric verification engine.
 This includes facial recognition using DeepFace and ArcFace.
 Unauthorized access is strictly prevented by a high-security gait.
 The biometric security provides an industry-leading level of protection.
+
