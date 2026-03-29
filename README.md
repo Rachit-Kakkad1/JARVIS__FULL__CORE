@@ -9,3 +9,4 @@ Our goal is to create a digital being that understands context as well as a huma
 This repository hosts the full core logic, cognitive frameworks, and high-fidelity interface.
 
 ## Advanced Functional Capabilities
+- High-fidelity Natural Language Processing using Transformer-based models.
