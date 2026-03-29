@@ -120,3 +120,4 @@ Copyright (c) 2026 Rachit Kakkad.
 All rights reserved.
 
 ## Closing Remarks
+JARVIS is more than just an assistant.
