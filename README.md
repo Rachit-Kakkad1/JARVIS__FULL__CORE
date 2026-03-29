@@ -60,3 +60,4 @@ Supports multiple languages and personalized voice feedback.
    - `cd jarvis`
 3. Install dependencies from requirements.txt.
    - `pip install -r requirements.txt`
+4. Set up environment variables in `.env`.
