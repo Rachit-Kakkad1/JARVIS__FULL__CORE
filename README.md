@@ -90,3 +90,4 @@ We welcome developers who share our vision for the future of AI interaction.
 - **Documentation**: All new features must be accompanied by detailed README updates.
 - **Security First**: New code must pass the internal security audit before merging.
 
+## Credits & Acknowledgments
