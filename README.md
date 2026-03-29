@@ -84,3 +84,4 @@ The JARVIS core is designed to be deployed across various environments.
 - **Cloud Relay**: Optional secure relay for remote access when away from home.
 
 ## Developer Contribution Guidelines
+We welcome developers who share our vision for the future of AI interaction.
