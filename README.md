@@ -50,3 +50,4 @@ Optimized for high-refresh-rate displays and sleek typography.
 ## Voice Integration
 JARVIS features a natural-sounding voice using premium TTS engines.
 Listen continually for the wake-word "JARVIS" or "Hey JARVIS".
+Integrates with several voice engines for minimal latency.
