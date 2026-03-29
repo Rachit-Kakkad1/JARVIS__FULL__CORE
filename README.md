@@ -126,3 +126,4 @@ To get the most out of JARVIS, follow these guidelines:
 - **OS Support**: Windows 10/11, Ubuntu 22.04 LTS, macOS Sequoia.
 
 ## Maintenance and Updates
+The core team releases updates on a bi-weekly cycle.
