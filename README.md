@@ -53,3 +53,4 @@ The Heads-Up Display provides a cinematic, data-rich experience for the user.
 - **60FPS Transitions**: Smooth hardware-accelerated animations for all UI states.
 - **Interactive Widgets**: Real-time graphs for CPU, RAM, and IoT device status.
 
+## IoT Integration & Smart Home Control
