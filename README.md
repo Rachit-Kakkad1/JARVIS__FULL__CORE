@@ -18,3 +18,4 @@ The system is built to be a high-performance personal assistant with biometric s
 - Iron Man inspired aesthetic with premium design and animations.
 
 ## System Architecture
+The JARVIS core is split into several key components:
