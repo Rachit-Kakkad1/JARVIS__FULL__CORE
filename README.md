@@ -63,3 +63,4 @@ Supports multiple languages and personalized voice feedback.
 4. Set up environment variables in `.env`.
    - Add your API keys for search and cognitive services.
 5. Run the main application.
+   - `python main.py`
