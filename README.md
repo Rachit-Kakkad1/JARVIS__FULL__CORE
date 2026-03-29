@@ -58,3 +58,4 @@ JARVIS acts as the central hub for all smart devices in the user's environment.
 - **MQTT Broker**: Handles high-speed communication between smart switches and sensors.
 - **Device Discovery**: Automatically detects new IoT hardware on the local network.
 - **Scene Automation**: Pre-configured routines for "Movie Night", "Focus Mode", or "Wake Up".
+- **Energy Monitoring**: Provides real-time insights into domestic power consumption.
