@@ -50,3 +50,4 @@ The Heads-Up Display provides a cinematic, data-rich experience for the user.
 - **Global Viewport**: A borderless window that overlays system information seamlessly.
 - **Dynamic Bento Grids**: Modular displays that resize based on active tasks.
 - **Glassmorphic UI**: High-end visual aesthetics with frosted glass and glowing accents.
+- **60FPS Transitions**: Smooth hardware-accelerated animations for all UI states.
