@@ -18,3 +18,4 @@ This repository hosts the full core logic, cognitive frameworks, and high-fideli
 - Seamless multi-device synchronization for ubiquitous presence.
 - Autonomous error correction and self-healing system protocols.
 
+## Tech Stack & Architecture
