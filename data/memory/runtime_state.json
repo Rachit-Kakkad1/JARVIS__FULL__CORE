@@ -1,0 +1,23 @@
+{
+    "name": "dev setup",
+    "step": 3,
+    "status": "completed",
+    "total_steps": 3,
+    "steps": [
+        {
+            "action": "open_app",
+            "target": "vscode",
+            "priority": 1
+        },
+        {
+            "action": "open_app",
+            "target": "chrome",
+            "priority": 2
+        },
+        {
+            "action": "open_app",
+            "target": "terminal",
+            "priority": 3
+        }
+    ]
+}

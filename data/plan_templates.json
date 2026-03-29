@@ -1,0 +1,16 @@
+{
+    "dev setup": [
+        {"action": "open_app", "target": "vscode", "priority": 1},
+        {"action": "open_app", "target": "chrome", "priority": 2},
+        {"action": "open_app", "target": "terminal", "priority": 3}
+    ],
+    "meeting": [
+        {"action": "open_app", "target": "calendar", "priority": 1},
+        {"action": "open_app", "target": "zoom", "priority": 2},
+        {"action": "volume", "target": null, "args": {"level": 50}, "priority": 3}
+    ],
+    "relax": [
+        {"action": "youtube", "target": "lofi hip hop radio", "priority": 1},
+        {"action": "brightness", "target": null, "args": {"level": 30}, "priority": 2}
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "dev mode": [
+        {
+            "action": "open_app",
+            "target": "vscode"
+        },
+        {
+            "action": "open_url",
+            "target": "https://github.com"
+        }
+    ],
+    "relax": [
+        {
+            "action": "youtube",
+            "target": "lofi hip hop radio"
+        },
+        {
+            "action": "brightness",
+            "target": null,
+            "args": {
+                "level": 30
+            }
+        }
+    ]
+}
