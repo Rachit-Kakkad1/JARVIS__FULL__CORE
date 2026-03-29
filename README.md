@@ -46,3 +46,4 @@ It doesn't just match keywords; it understands the semantic intent of the user.
 - **Response Synthesis**: Generates natural-sounding feedback based on personality profiles.
 
 ## Feature Breakdown: The Visual HUD
+The Heads-Up Display provides a cinematic, data-rich experience for the user.
