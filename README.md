@@ -92,3 +92,4 @@ Supports multiple languages and personalized voice feedback.
 - Encrypted data storage for all personal records.
 - Regular security audits for biometric verification.
 - Secure environment management using env variables.
+- Multi-factor authentication support for high-risk actions.
