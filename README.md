@@ -61,3 +61,4 @@ JARVIS acts as the central hub for all smart devices in the user's environment.
 - **Energy Monitoring**: Provides real-time insights into domestic power consumption.
 - **Voice-to-Hardware**: Directly control lights, thermostat, and locks via voice command.
 
+## Future Scope & Roadmap
