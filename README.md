@@ -64,3 +64,4 @@ Supports multiple languages and personalized voice feedback.
    - Add your API keys for search and cognitive services.
 5. Run the main application.
    - `python main.py`
+
