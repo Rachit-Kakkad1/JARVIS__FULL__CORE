@@ -107,3 +107,4 @@ The development of JARVIS has been a collaborative effort.
 4. **Configuration**:
    Copy `.env.example` to `.env` and fill in your API credentials.
 5. **Bootstrap UI**:
+   `cd ui && npm install && npm start`
