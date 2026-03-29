@@ -61,3 +61,4 @@ Supports multiple languages and personalized voice feedback.
 3. Install dependencies from requirements.txt.
    - `pip install -r requirements.txt`
 4. Set up environment variables in `.env`.
+   - Add your API keys for search and cognitive services.
