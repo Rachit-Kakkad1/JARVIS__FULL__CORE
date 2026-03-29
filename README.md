@@ -70,3 +70,4 @@ We are committed to the long-term evolution of the JARVIS OS.
 - **Extended Memory**: A global vector database for life-long user history retention.
 - **Quantum Logic**: Exploring quantum-inspired algorithms for decision-making.
 
+## System Performance Analytics
