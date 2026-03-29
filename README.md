@@ -119,3 +119,4 @@ See the `LICENSE` file for more details.
 Copyright (c) 2026 Rachit Kakkad.
 All rights reserved.
 
+## Closing Remarks
