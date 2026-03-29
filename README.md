@@ -28,3 +28,4 @@ This repository hosts the full core logic, cognitive frameworks, and high-fideli
 - **IoT Layer**: MQTT protocol for high-efficiency device control and telemetry.
 
 ## Detailed Security Infrastructure
+Security is at the heart of JARVIS. Unauthorized access is virtually impossible.
