@@ -97,3 +97,4 @@ Supports multiple languages and personalized voice feedback.
 
 ## Community and Contributions
 We welcome contributions from the community.
+If you have ideas for new features, open an issue.
