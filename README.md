@@ -45,3 +45,4 @@ It doesn't just match keywords; it understands the semantic intent of the user.
 - **Logic Verification**: Cross-references commands with safety and logic constraints.
 - **Response Synthesis**: Generates natural-sounding feedback based on personality profiles.
 
+## Feature Breakdown: The Visual HUD
