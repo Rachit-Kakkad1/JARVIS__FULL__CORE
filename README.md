@@ -30,3 +30,4 @@ This repository hosts the full core logic, cognitive frameworks, and high-fideli
 ## Detailed Security Infrastructure
 Security is at the heart of JARVIS. Unauthorized access is virtually impossible.
 1. **Multi-Pass Face Verification**: Uses ArcFace for extreme facial feature mapping.
+2. **Gait Recognition**: Identifies the user based on movement patterns (Experimental).
