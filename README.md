@@ -86,3 +86,4 @@ Supports multiple languages and personalized voice feedback.
 - Low memory footprint for the core logic layer.
 - Optimized UI rendering for 60+ FPS performance.
 - Direct hardware access for system-level controls.
+- Asynchronous API handling for non-blocking operations.
