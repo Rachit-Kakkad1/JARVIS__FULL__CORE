@@ -75,3 +75,6 @@
 ## Update: 2026-03-31 23:45:33
 - Completed task: chore: setup continuous integration actions
 
+## Update: 2026-03-31 23:45:37
+- Completed task: docs: clarify setup instructions in readme
+
