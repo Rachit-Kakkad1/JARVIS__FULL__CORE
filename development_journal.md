@@ -102,3 +102,6 @@
 ## Update: 2026-03-31 23:46:01
 - Completed task: docs: outline upcoming features in journal
 
+## Update: 2026-03-31 23:46:04
+- Completed task: feat: setup skeleton for advanced user auth
+
