@@ -123,3 +123,6 @@
 ## Update: 2026-03-31 23:46:22
 - Completed task: chore: refactor project directory structure
 
+## Update: 2026-03-31 23:46:26
+- Completed task: docs: document data models
+
