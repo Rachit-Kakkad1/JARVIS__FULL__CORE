@@ -36,3 +36,6 @@
 ## Update: 2026-03-31 23:44:52
 - Completed task: fix: resolve dependency conflicts
 
+## Update: 2026-03-31 23:44:55
+- Completed task: feat: enhance error handling in core
+
