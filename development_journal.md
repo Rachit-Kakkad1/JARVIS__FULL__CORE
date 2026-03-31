@@ -93,3 +93,6 @@
 ## Update: 2026-03-31 23:45:51
 - Completed task: perf: cache frequent queries
 
+## Update: 2026-03-31 23:45:55
+- Completed task: test: implement integration tests for controller
+
