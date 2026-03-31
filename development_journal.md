@@ -126,3 +126,6 @@
 ## Update: 2026-03-31 23:46:26
 - Completed task: docs: document data models
 
+## Update: 2026-03-31 23:46:29
+- Completed task: feat: improve natural language processing stubs
+
