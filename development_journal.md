@@ -144,3 +144,6 @@
 ## Update: 2026-03-31 23:46:45
 - Completed task: test: add performance benchmarks
 
+## Update: 2026-03-31 23:46:50
+- Completed task: chore: final cleanup and version bump
+
