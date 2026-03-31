@@ -120,3 +120,6 @@
 ## Update: 2026-03-31 23:46:20
 - Completed task: test: add unit tests for utility scripts
 
+## Update: 2026-03-31 23:46:22
+- Completed task: chore: refactor project directory structure
+
