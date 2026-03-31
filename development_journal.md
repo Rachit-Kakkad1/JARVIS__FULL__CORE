@@ -33,3 +33,6 @@
 ## Update: 2026-03-31 23:44:49
 - Completed task: refactor: modularize core components
 
+## Update: 2026-03-31 23:44:52
+- Completed task: fix: resolve dependency conflicts
+
