@@ -99,3 +99,6 @@
 ## Update: 2026-03-31 23:45:58
 - Completed task: chore: update gitignore for temp files
 
+## Update: 2026-03-31 23:46:01
+- Completed task: docs: outline upcoming features in journal
+
