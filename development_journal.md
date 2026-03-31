@@ -90,3 +90,6 @@
 ## Update: 2026-03-31 23:45:49
 - Completed task: style: align code structure with project standards
 
+## Update: 2026-03-31 23:45:51
+- Completed task: perf: cache frequent queries
+
