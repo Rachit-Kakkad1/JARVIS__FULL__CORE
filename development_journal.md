@@ -138,3 +138,6 @@
 ## Update: 2026-03-31 23:46:38
 - Completed task: style: enforce linting rules
 
+## Update: 2026-03-31 23:46:41
+- Completed task: perf: lazy load heavy assets
+
