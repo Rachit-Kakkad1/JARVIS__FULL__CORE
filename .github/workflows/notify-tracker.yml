@@ -1,0 +1,29 @@
+name: Notify Dev Tracker
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-actions[bot]'
+
+    steps:
+      - name: Ping daily-dev-tracker
+        run: |
+          HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GH_PAT }}" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/${{ secrets.GH_USERNAME }}/daily-dev-tracker/dispatches \
+            -d "{\"event_type\": \"new_commit\", \"client_payload\": {\"repo\": \"${{ github.repository }}\", \"sha\": \"${{ github.sha }}\", \"message\": \"${{ github.event.head_commit.message }}\", \"author\": \"${{ github.event.head_commit.author.name }}\", \"timestamp\": \"${{ github.event.head_commit.timestamp }}\"}}")
+          echo "HTTP: $HTTP_CODE"
+          if [ "$HTTP_CODE" = "204" ]; then
+            echo "Tracker notified"
+          else
+            echo "Error: $HTTP_CODE"
+            exit 1
+          fi
